@@ -35,6 +35,7 @@ The project is a **Student Grade Calculator** that allows a user to input marks 
 ## 📂 File Structure
 
 /Task 2/gradecalculator/
+
 └── GradeCalculator.java
 
 
@@ -42,14 +43,22 @@ The project is a **Student Grade Calculator** that allows a user to input marks 
 
 ## ▶️ Sample Output
 ===== Student Grade Calculator =====
+
 Enter the number of subjects: 3
+
 Enter marks for subject 1 (out of 100): 95
+
 Enter marks for subject 2 (out of 100): 88
+
 Enter marks for subject 3 (out of 100): 91
 
+
 ===== Results =====
+
 Total Marks: 274 / 300
+
 Average Percentage: 91.33%
+
 Grade: A+
 
 ## 🚀 How to Run
